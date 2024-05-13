@@ -8,3 +8,5 @@ a Spatial-Temporal Generative Network reconstruct the spatial and temporal infor
 **Datasets:**
 - LeapGestureDB dataset: https://sites.google.com/view/leapmotiondatabase/accueil
 - RIT dataset:  https://github.com/rcmccartney/DataCollector
+
+for more information, contact: safa.ameur@eniso.u-sousse.tn
