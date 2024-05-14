@@ -8,8 +8,9 @@ a Spatial-Temporal Generative Network reconstruct the spatial and temporal infor
 **Datasets**
 - LeapGestureDB dataset: https://sites.google.com/view/leapmotiondatabase/accueil
 - RIT dataset:  https://github.com/rcmccartney/DataCollector
-- 
+  
 **Dependencies**
+  
 Code for STGN was prepared using Python 3.10. The full list of dependencies can be found in Requirements.txt. Most packages can be installed using the command: pip install -r requirements.txt
 
 
